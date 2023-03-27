@@ -1,0 +1,100 @@
+body {
+  background-color: black;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+svg{
+  color: beige;
+}
+p{
+  color: beige;
+}
+.nav-link{
+  color: #a77dced8;
+  padding: 20PX;
+  display: inline-block;
+}
+.nav-link:hover{
+background-color: #a77dced8;
+}
+nav{
+  background-color: beige;
+}
+.dropdown-menu:hover{
+  display: block;
+  color: #a77dced8;
+}
+.logo{
+  width: 150px;
+  border-radius: 100px;
+}
+.titulo{
+  color: #a77dced8;
+  text-align: center;
+  padding: 20px;
+  font-family:'Courier New', Courier, monospace;
+  font-size:xx-large ;
+  border:double 8px #a77dced8 ;
+  border-radius: 50px ;
+  align-items: center;
+  height: 100px, auto;
+  width: 800px;
+  margin: 50px auto;
+}
+.img{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  align-items: center;
+}
+.Lista {
+  background-color: #a77dced8;
+  border: #f5f5db 10px double;
+  width: 200px;
+  height: 250px;
+  padding: 15px;
+  margin: 50px auto;
+  margin-right: 50px;
+  display: inline-block;
+  text-align: center;
+}
+h1{
+  color: beige;
+  font-family:'Courier New', Courier, monospace;
+}
+.Lista-2 {
+  background-color: #a77dced8;
+  border: #f5f5db 10px double;
+  width: 350px;
+  height: 450px;
+  padding: 15px;
+  margin: 50px auto;
+  margin-right: 50px;
+  display: inline-block;
+  text-align: center;
+}
+.cuadroContacto{
+  padding: 10px;
+ margin: auto;
+margin-top: 70px;
+ align-items: center;
+}
+.cuadro-sb{
+  background-color: #a77dced8;
+  border: #f5f5db 10px double;
+  width: 700px;
+  height: 850px;
+  padding: 15px;
+  margin: 50px auto;
+  margin-right: auto;
+  text-align: center;
+}
